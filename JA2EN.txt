@@ -1,0 +1,129 @@
+This file is part of the final assignment M508B Big Data Analytics (SS0325), GISMA University, Berlin, Germany.
+
+The following is the output of language translation from Japanese to English using pretrained model "facebook/m2m100_1.2B". 
+The original text for this translation is sourced from https://www.phontron.com/kftt/download/kftt-data-1.0.tar.gz. which contains the Japanese text and the translated English text.
+
+The JA_ver denotes original Japanese text, EN-ver(Reference) refers to the translated English text from the source whereas the EN-ver (Predicted) is our predicted translated text.
+
+
+Output of 30 sentences.
+
+JA-ver: 雪舟（せっしゅう、1420年（応永27年）-1506年（永正3年））は号で、15世紀後半室町時代に活躍した水墨画家・禅僧で、画聖とも称えられる。
+EN-ver (Reference): Known as Sesshu (1420 - 1506), he was an ink painter and Zen monk active in the Muromachi period in the latter half of the 15th century, and was called a master painter.
+EN-ver (Predicted): Snowboat (1420 (応永27年)-1506 (永正3年) is a painting monk and painting artist who worked in the late 15th century during the late 15th century.
+
+JA-ver: 日本の水墨画を一変させた。
+EN-ver (Reference): He revolutionized the Japanese ink painting.
+EN-ver (Predicted): It changed the Japanese painting.
+
+JA-ver: 諱は「等楊（とうよう）」、もしくは「拙宗（せっしゅう）」と号した。
+EN-ver (Reference): He was given the posthumous name "Toyo" or "Sesshu (拙宗)."
+EN-ver (Predicted): He said, “See, it’s a shame, it’s a shame, it’s a shame.”
+
+JA-ver: 備中国に生まれ、京都・相国寺に入ってから周防国に移る。
+EN-ver (Reference): Born in Bicchu Province, he moved to Suo Province after entering SShokoku-ji Temple in Kyoto.
+EN-ver (Predicted): Born in China, he moved to Kyoto after entering the temple.
+
+JA-ver: その後遣明使に随行して中国（明）に渡って中国の水墨画を学んだ。
+EN-ver (Reference): Later he accompanied a mission to Ming Dynasty China and learned Chinese ink painting.
+EN-ver (Predicted): Then he followed the Prophet (peace be upon him) and traveled through China to learn Chinese paintings.
+
+JA-ver: 作品は数多く、中国風の山水画だけでなく人物画や花鳥画もよくした。
+EN-ver (Reference): His works were many, including not only Chinese-style landscape paintings, but also portraits and pictures of flowers and birds.
+EN-ver (Predicted): There are many works, not only Chinese mountain water paintings, but also characters and bird paintings.
+
+JA-ver: 大胆な構図と力強い筆線は非常に個性的な画風を作り出している。
+EN-ver (Reference): His bold compositions and strong brush strokes constituted an extremely distinctive style.
+EN-ver (Predicted): The bold patterns and strong pen lines create a very individual style.
+
+JA-ver: 現存する作品のうち6点が国宝に指定されており、日本の画家のなかでも別格の評価を受けているといえる。
+EN-ver (Reference): 6 of his extant works are designated national treasures. Indeed, he is considered to be extraordinary among Japanese painters.
+EN-ver (Predicted): Six of the existing works have been designated as national treasures and are also highly regarded by Japanese painters.
+
+JA-ver: このため、花鳥図屏風などに「伝雪舟筆」される作品は大変多い。
+EN-ver (Reference): For this reason, there are a great many artworks that are attributed to him, such as folding screens with pictures of flowers and that birds are painted on them.
+EN-ver (Predicted): For this reason, there are a lot of works that are "transmitted to the snowboard" on flowerbird screens.
+
+JA-ver: 真筆であるか専門家の間でも意見の分かれるものも多々ある。
+EN-ver (Reference): There are many works that even experts cannot agree if they are really his work or not.
+EN-ver (Predicted): There are many differences of opinion between experts and authors.
+
+JA-ver: 代表作は、「山水長巻」「夏冬山水図」「天橋立図」「破墨山水」「慧可断臂の図」「秋冬山水」「花鳥屏風」など。
+EN-ver (Reference): Representative works include: Long Landscape Scroll, Summer and Winter Landscape, View of Amanohashidate, Broken Ink Landscape, Portrait of Ekadanpi, Fall and Winter Landscape, and Folding Screen of Birds and Flowers of the 4 Seasons.
+EN-ver (Predicted): The representative works include “Mountainside Tree”, “Summer Winter Mountainside Tree”, “Sea Bridge Tree”, “Patch Mountainside”, “Hield-to-Arm Tree”, “Autumn-Winter Mountainside”, “Fruit Bird Screen” and more.
+
+JA-ver: 弟子に、秋月、宗淵、等春らがいる。
+EN-ver (Reference): His disciples include Shugetsu, Soen, and Toshun.
+EN-ver (Predicted): The pupils have autumn months, the abyss, and the spring.
+
+JA-ver: 1420年備中国赤浜（現在の岡山県総社市）に生まれる。
+EN-ver (Reference): He was born in Akahama, Bicchu Province (present-day Soja City, Okayama Prefecture), in 1420.
+EN-ver (Predicted): He was born in 1420 in China's Red Beach (now Okayama Prefecture).
+
+JA-ver: 生家は小田氏という武家とされている。
+EN-ver (Reference): He was born to a Samurai family called ODA.
+EN-ver (Predicted): The family is known as the Houthi family.
+
+JA-ver: 幼い頃近くの宝福寺(総社市)に入る。
+EN-ver (Reference): He entered nearby Hofuku-ji Temple (Soja City) while young.
+EN-ver (Predicted): As a child, he entered the nearby temple.
+
+JA-ver: 10歳頃京都の相国寺に移り、春林周藤に師事、禅の修行を積むとともに、天章周文に絵を学んだ。
+EN-ver (Reference): He moved to Kyoto's Shokoku-ji Temple at the age of around 10, and while studying and having Zen training under Shuto SHUNRIN, learned painting from Shubun TENSHO.
+EN-ver (Predicted): At the age of 10, he moved to Kyoto's相国寺, where he studied painting in the language of heaven, along with teaching and practicing Zen in Springlin周藤.
+
+JA-ver: 1454年（応永28年）ごろ周防国に移り、守護大名大内氏の庇護を受け、画室雲谷庵（山口県山口市）を構える。
+EN-ver (Reference): In around 1454, he moved to Suo Province, and built his studio, Unkokuan (Yamaguchi City, Yamaguchi Prefecture), with the patronage of the feudal lord, Ouchi.
+EN-ver (Predicted): Approximately 1454 (Johnny 28) he moved to the district state, under the protection of the protector of the great name, and set up the painting room cloudy room (Yakuza Prefecture, Yakuza City).
+
+JA-ver: 1465年（寛正6年）ごろ、楚石梵&29734（そせきぼんき）による雪舟二大字を入手し、龍崗真圭に字説を請。
+EN-ver (Reference): In around 1465, he acquired a calligraphy work by Bonki SOSEKI on which the characters of Sesshu were written, and requested Shinkei RYUKO to write a certificate about the origin of the name, Sesshu.
+EN-ver (Predicted): Around 1465 (June 6), he obtained the snowboat two major letters by the Chushuvan and 29734 (Snowboat two major letters) and requested the wording to Dragon崗.
+
+JA-ver: 以後、雪舟を名乗ったものと思われる。
+EN-ver (Reference): It is believed that after that, he came to be known as Sesshuu.
+EN-ver (Predicted): It was later called the Snowboat.
+
+JA-ver: これ以前は拙宗等楊と名乗っていたと思われるが、拙宗と雪舟が同一人物であることを示す確実な史料はない。
+EN-ver (Reference): It is thought that until this time he was known as Touyou SESSHU, but there is not a firm source to indicate that SESSHU and Sesshu were the same person.
+EN-ver (Predicted): It is believed that this was previously referred to as Agon and Yang, but there is no certain evidence that Agon and Snowboat are the same person.
+
+JA-ver: 1468年（応仁2年）に遣明使船で明へ渡航。
+EN-ver (Reference): In 1468, he sailed to Ming Dynasty China with a mission.
+EN-ver (Predicted): In 1468 he travelled to Ma'an by ship.
+
+JA-ver: 約2年間中国で本格的な水墨画に触れ、研究した。
+EN-ver (Reference): He familiarized himself with authentic Chinese ink painting and studied it for about 2 years.
+EN-ver (Predicted): For about two years, I studied and studied genuine painting in China.
+
+JA-ver: 1481年（文明13）秋から美濃国へ旅行。
+EN-ver (Reference): In the fall of 1481, he traveled to Mino Province.
+EN-ver (Predicted): 1481 (civilization 13) from autumn travel to the Great Country.
+
+JA-ver: 没年は、確実な記録はないが1506年とするものが多い。
+EN-ver (Reference): There is no reliable record of the date of his death, but most put it at 1506.
+EN-ver (Predicted): There are no exact records of the year of death, but many are from 1506.
+
+JA-ver: 1502年とする説もある。
+EN-ver (Reference): Other records write that he died in 1502.
+EN-ver (Predicted): There is also theory of the year 1502.
+
+JA-ver: 雪舟の生涯には没年以外にも謎とされる部分が多い。
+EN-ver (Reference): In addition to the date of his death, there are many other aspects of Sesshu's life that remain unknown.
+EN-ver (Predicted): There is a lot of mystery in the life of the snowboar besides the age of death.
+
+JA-ver: 雪舟についてこんな伝説が残っている。
+EN-ver (Reference): There is an interesting episode about Sesshu.
+EN-ver (Predicted): There is a legend about the snowboard.
+
+JA-ver: 宝福寺に入った幼い日の雪舟が、絵ばかり好んで経を読もうとしないので、寺の僧は雪舟を仏堂の柱にしばりつけてしまいました。
+EN-ver (Reference): A young Sesshu who entered Hofuku-ji Temple only liked pictures and did not want to read sutras; so the monks of the temple tied him to a pillar in the building enshrining a Buddhist statue.
+EN-ver (Predicted): As the snowboat of a young day who entered the temple did not like to read the scripture, the monks of the temple attached the snowboat to the pillars of the Buddha.
+
+JA-ver: しかし床に落ちた涙を足の親指につけ、床にねずみを描いたところ、僧はその見事さに感心し、雪舟が絵を描くことを許しました。
+EN-ver (Reference): However, when the monks saw that he drew a rat with his tears that fell on the floor by using his big toe, they were impressed so they allowed him to draw pictures.
+EN-ver (Predicted): But when he put the tears on the floor on the thumb of his feet, and painted a mouse on the floor, the monk was amazed by its magnificence, and allowed the snowboat to paint.
+
+JA-ver: これは雪舟について最もよく知られた話であると思われる。
+EN-ver (Reference): This is thought to be the most well known story about Sesshu.
+EN-ver (Predicted): This is one of the most well-known stories about snow.
